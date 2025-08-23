@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shicheng Liu"
+  name             : "Punya Syon Pandey"
   avatar           : "profile.JPG"
-  bio              : "3-rd year CS PhD at Stanford NLP group. Email me: shicheng [at] cs [dot] stanford [dot] edu"
-  location         : "Stanford, CA"
+  bio              : "Research Assistant at UofT Jinesis Lab. Email me: punya [dot] pandey [at] mail [dot] toronto [dot] ca"
+  location         : "Toronto, ON"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Qu38o2EAAAAJ&hl=en"
-  email            : "shicheng@cs.stanford.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=jPxoCxIAAAAJ&hl=en"
+  email            : "punya.pandey@mail.utoronto.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "george1459"
+  github           : "psyonp"
   google_plus      :
   keybase          :
   instagram        : 
