@@ -17,9 +17,13 @@ University of Toronto, 2024 - 2029 (Expected)
 
 Publications
 ======
+* [SocialHarmBench: Revealing LLM Vulnerabilities to Socially Harmful Requests](https://arxiv.org/abs/2510.04891v1) <br />
+  **Punya Syon Pandey**, Hai Son Le, Devansh Bhardwaj, Rada Mihalcea, Zhijing Jin <br />
+  Pre-print, 2025
+
 * [CORE: Measuring Multi-Agent LLM Interaction Quality under Game-Theoretic Pressures](https://arxiv.org/abs/2508.11915) <br />
   **Punya Syon Pandey**, Yongjin Yang, Jiarui Liu, Zhijing Jin <br />
-  Pre-print, 2025/08, in submission
+  NeurIPS 2025 Workshop on Multi-Turn Interactions in Large Language Models (MTI-LLM)
 
 * [Accidental Vulnerability: Factors in Fine-Tuning that Shift Model Safeguards](https://arxiv.org/abs/2505.16789) <br />
   **Punya Syon Pandey**, Samuel Simko, Kellin Pelrine, Zhijing Jin <br />
