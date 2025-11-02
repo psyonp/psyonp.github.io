@@ -17,6 +17,10 @@ University of Toronto, 2024 - 2029 (Expected)
 
 Publications
 ======
+* [CauSciBench: Evaluating LLM Causal Reasoning For Scientific Research](https://zhijing-jin.com/files/papers/2025_CauSciBench.pdf) <br />
+  Sawal Acharya, Terry Jingchen Zhang, Andrew Kim, Anahita Haghighat, Xianlin Sun, Pepijn Cobben, Rahul Babu Shrestha, Maximilian Mordig, Jacob T Emmerson, Yahang Qi, **Punya Syon Pandey**, Mrinmaya Sachan, Yinya Huang, Bernhard Schölkopf, Zhijing Jin <br />
+  Pre-print, 2025
+
 * [SocialHarmBench: Revealing LLM Vulnerabilities to Socially Harmful Requests](https://arxiv.org/abs/2510.04891v1) <br />
   **Punya Syon Pandey**, Hai Son Le, Devansh Bhardwaj, Rada Mihalcea, Zhijing Jin <br />
   Pre-print, 2025
