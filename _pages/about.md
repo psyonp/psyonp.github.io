@@ -17,7 +17,7 @@ University of Toronto, 2024 - 2029 (Expected)
 
 Publications
 ======
-  * [Objective Matters: Fine-Tuning Objectives Shape Safety, Robustness, and Persona Drift](https://arxiv.org/pdf/2601.12639) <br />
+  * [Objective Matters: Fine-Tuning Objectives Shape Safety, Robustness, and Persona Drift](https://arxiv.org/abs/2601.12639) <br />
   Daniel Vennemeyer, **Punya Syon Pandey**, Phan Anh Duong, Michael Umeokoli, Samuel Ratnam <br />
   Pre-print, 2026 (Under Review)
 
