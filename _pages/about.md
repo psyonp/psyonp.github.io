@@ -17,6 +17,22 @@ University of Toronto, 2024 - 2029 (Expected)
 
 Publications
 ======
+  * [Preserving Historical Truth: Detecting Historical Revisionism in Large Language Models](https://arxiv.org/abs/2602.17433) <br />
+  Francesco Ortu, Joeun Yook, **Punya Syon Pandey**, Keenan Samway, Bernhard Schölkopf, Alberto Cazzaniga, Rada Mihalcea, Zhijing Jin <br />
+  Pre-print, 2026 (Under Review)
+
+  * [TamperBench: Systematically Stress-Testing LLM Safety Under Fine-Tuning and Tampering](https://arxiv.org/abs/2602.06911) <br />
+  Saad Hossain, Tom Tseng, **Punya Syon Pandey**, Samanvay Vajpayee, Matthew Kowal, Nayeema Nonta, Samuel Simko, Stephen Casper, Zhijing Jin, Kellin Pelrine, Sirisha Rambhatla <br />
+  Pre-print, 2026 (Under Review) - Collaboration with FAR.AI
+
+  * [BinaryPPO: Efficient Policy Optimization for Binary Classification](https://arxiv.org/abs/2602.02708) <br />
+  **Punya Syon Pandey**, Zhijing Jin <br />
+  Pre-print, 2026 (Under Review)
+
+  * [Tracing Multilingual Representations in LLMs with Cross-Layer Transcoders](https://arxiv.org/abs/2511.10840) <br />
+  Abir Harrasse, Florent Draye, **Punya Syon Pandey**, Zhijing Jin, Bernhard Schölkopf <br />
+  Pre-print, 2026 (Under Review)
+
   * [Objective Matters: Fine-Tuning Objectives Shape Safety, Robustness, and Persona Drift](https://arxiv.org/abs/2601.12639) <br />
   Daniel Vennemeyer, **Punya Syon Pandey**, Phan Anh Duong, Michael Umeokoli, Samuel Ratnam <br />
   Pre-print, 2026 (Under Review)
