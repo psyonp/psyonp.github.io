@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Punya Syon Pandey"
 title_separator          : "-"
 name                     : &name "Punya Syon Pandey"
-description              : &description "Research Assistant @ Jinesis Lab UofT"
+description              : &description "AI Safety Researcher"
 url                      : https://psyonp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "psyonp.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Punya Syon Pandey"
   avatar           : "profile.JPG"
-  bio              : "Research Assistant at UofT Jinesis Lab. Email me: punya [dot] pandey [at] mail [dot] toronto [dot] ca"
+  bio              : "Email me: punya [dot] pandey [at] mail [dot] toronto [dot] ca"
   location         : "Toronto, ON"
   employer         :
   pubmed           : 
